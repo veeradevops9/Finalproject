@@ -3,6 +3,9 @@
  this is updated from putty
 how are you
 wt are you doing
-wt can we do..
+wt can we do.
 
 this new code added from local machine
+
+this code updated from git hub
+
