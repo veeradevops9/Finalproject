@@ -11,3 +11,4 @@ this code updated from git hub
 
 firt time try tis way
 
+from putty
