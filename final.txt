@@ -1,2 +1,4 @@
 how to add ontent to trail branch
 for revert from git hub
+
+how toadd git cherry-pic
